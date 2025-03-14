@@ -11,16 +11,16 @@
 - Luan
   - Disponibilidade: Total
 - Adjami
-  - Disponibilidade: Exceto na sexta-feira
+  - Disponibilidade: Total
 - Lohanne
-  - Disponibilidade: Exceto nas tardes dos últimos quatro dias (por confirmar)
+  - Disponibilidade: Exceto nas tardes dos últimos quatro dias
 
 ### Designers
 
 - Ines
   - Disponibilidade: Total
 - Phi
-  - Disponibilidade: Por confirmar
+  - Disponibilidade: Total
 
 ## Levar (coisas pesadas)
 
@@ -31,9 +31,7 @@
 | Nycolas  | Colchões Casal    | 1          | Tem que ter um carro grande, uma van talvez. |
 | Nycolas  | Monitor           | 1          |                                              |
 | Nycolas  | Máquina de Café   | 1          |                                              |
-| Nycolas  | Sanduicheira      | 1          |                                              |
 | Nycolas  | Cooler            | 1          |                                              |
 | Nycolas  | Extensão          | Máximo     |                                              |
-| Bernardo | AirFryer          | 1          |                                              |
 | Bernardo | Saco de Cama      | 2          |                                              |
-| Phi      | Saco de Cama      | 1          |                                              |
+| Phi      | Saco de Cama      | 1          |                                              |  
